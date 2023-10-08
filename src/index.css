@@ -1,0 +1,20 @@
+/* ....Diseño....
+
+/*___Navegador.css___*/
+.nav-link-custom {
+  color: white !important;
+  text-decoration: none;
+}
+
+/*___Estilo para el enlace activo____*/
+.nav-link.active {
+  background-color: rgb(239, 80, 80);
+}
+
+
+
+
+
+
+
+
